@@ -94,13 +94,13 @@ Health and emergency support
 Rating (1–5): ☐
 
 Final Comparison Table
-Evaluation Area	School A	School B	School C
-Academics	⭐⭐⭐⭐⭐	⭐⭐⭐⭐	⭐⭐⭐⭐⭐
-Faculty	⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐
-Infrastructure	⭐⭐⭐⭐⭐	⭐⭐⭐⭐	⭐⭐⭐⭐
-Student Development	⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐
-Parent Communication	⭐⭐⭐⭐⭐	⭐⭐⭐⭐	⭐⭐⭐⭐⭐
-Safety	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐
+
+Academics	⭐
+Faculty	⭐
+Infrastructure	⭐
+Student Development	⭐
+Parent Communication	⭐
+Safety	⭐
 
 (Replace the stars with your own evaluation after visiting each school.)
 
