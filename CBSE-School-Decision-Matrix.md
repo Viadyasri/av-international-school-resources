@@ -6,7 +6,7 @@ This resource is designed to help families evaluate schools using measurable edu
 
 Step 1: Shortlist Schools
 
-School Name	Location	Visited
+School Name	, Location ,	Visited
 
 Step 2: Rate Each School
 📚 Academics
