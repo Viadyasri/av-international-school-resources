@@ -1,4 +1,5 @@
 Essential Questions to Ask Before Choosing a CBSE School
+
 Overview
 
 Selecting the Best CBSE School in Secunderabad involves much more than comparing brochures or online reviews. One of the best ways to evaluate a school is by asking the right questions during a campus visit or admission counselling session.
@@ -11,6 +12,7 @@ Does the teaching methodology focus on conceptual learning?
 How is student progress assessed throughout the academic year?
 What support is available for students who require additional academic guidance?
 How are practical learning and project-based activities incorporated into the curriculum?
+
 Questions About Teachers
 What is the average teaching experience of the faculty?
 How often do teachers receive professional development or training?
